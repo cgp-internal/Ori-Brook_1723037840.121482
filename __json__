@@ -1,0 +1,15 @@
+{
+    "index.html": {
+        "description": "Static single-page web application displaying a 'Hello World' message",
+        "dependencies": {},
+        "exposes": [
+            "Hello World"
+        ]
+    },
+    ".gitignore": {
+        "description": ".gitignore with no additional files"
+    },
+    "README.md": {
+        "description": "README with basic documentation and 'how to run' guide"
+    }
+}
